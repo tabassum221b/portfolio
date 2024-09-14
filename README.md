@@ -1,9 +1,12 @@
 # Homayra Tabassum | Data Analyst Portfolio
 
 ## About Me
-I'm a data analyst with a passion for turning raw data into actionable insights. With proficiency in Python, SQL, and R, I work on making data-driven decisions that drive business impact.
+I am a data analyst with a strong background in Python, SQL, and R. My experience spans across data-driven projects that focus on making informed decisions through statistical analysis, data mining, and machine learning techniques.
 
-I am currently pursuing a Master's in Data Science at the University of Rochester, where I am deepening my expertise in areas such as Computational Statistics, Data Mining, and Machine Learning. I also hold a Bachelor's in Computer Science and Engineering from Brac University, where I graduated with a GPA of 3.73.
+Currently, I am pursuing a Master's in Data Science at the University of Rochester. My academic journey has provided me with in-depth knowledge in areas such as Computational Statistics, Data Mining, and Machine Learning. I also hold a Bachelor's degree in Computer Science and Engineering from Brac University.
+
+I enjoy working with data to uncover insights that drive business and research decisions.
+
 
 ## Skills
 - **Programming Languages**: Java, Python, R, SQL
