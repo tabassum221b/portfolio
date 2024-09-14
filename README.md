@@ -6,18 +6,18 @@
 I'm a data analyst with a passion for turning raw data into actionable insights. With proficiency in Python, SQL, and R, I work on making data-driven decisions that drive business impact.
 
 ## Skills
-- **Programming Languages**: Python, R, SQL
-- **Tools**: Excel, Tableau, Jupyter Notebooks
-- **Data Analysis**: Data Cleaning, Visualization, Statistical Analysis
+- **Programming Languages**: Java, Python, R, SQL
+- **Web Technologies**: HTML, CSS
+- **Data Tools**: Excel, SAS, Matlab, Microsoft Word
+- **Data Science Skills**: Data Mining, Machine Learning, Sentiment Analysis, Statistical Testing, Data Cleaning, Preprocessing
+- **APIs**: Reddit API, GPT-3 API
+- **Soft Skills**: Strong analytical skills, excellent communicator, team player
 
 ## Projects
-### 1. [Project Name](link_to_project)
-**Skills**: Python, Pandas, Matplotlib  
-Description of the project, what you worked on, and the impact.
+### 1. Unveiling Gender Disparities in STEM (Python)
+- **Skills**: Python, Reddit API, Data Mining, Sentiment Analysis, Machine Learning
+- **Description**: Conducted a comprehensive analysis of women’s underrepresentation in STEM using social media data. Applied LDA, clustering with OPTICS, and statistical methods to extract insights on gender dynamics in STEM fields.
 
-### 2. [Project Name](link_to_project)
-**Skills**: SQL, Tableau  
-Short description of a dashboard or query you created, the insights, and how it helped decision-making.
 
 ## Contact
 - Email: [homayra221b@gmail.com](mailto:homayra221b@gmail.com)
