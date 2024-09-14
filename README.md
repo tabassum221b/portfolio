@@ -1,7 +1,5 @@
 # Homayra Tabassum | Data Analyst Portfolio
 
-![logo](assets/img/homayra.jpeg)
-
 ## About Me
 I'm a data analyst with a passion for turning raw data into actionable insights. With proficiency in Python, SQL, and R, I work on making data-driven decisions that drive business impact.
 
