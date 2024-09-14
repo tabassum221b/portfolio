@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Analyist
 
 #### Technical Skills: Python, SQL, Java
 
