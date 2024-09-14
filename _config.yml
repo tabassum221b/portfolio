@@ -1,5 +1,9 @@
-title: Homayra Tabassum
+title: Homayra Tabassum | Data Analyst Portfolio
 logo: assets/img/homayra.jpeg
-description: Data Analyst
+description: "Data Analyst | Passionate about turning raw data into actionable insights."
 #show_downloads: true
 theme: jekyll-theme-minimal
+social_links:
+  linkedin: https://www.linkedin.com/in/homayratabassum/
+  github: https://github.com/tabassum221b
+  email: mailto:homayra221b@gmail.com
