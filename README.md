@@ -21,9 +21,9 @@ I enjoy working with data to uncover insights that drive business and research d
 ### 1. [Data Mining Project](https://github.com/tabassum221b/gender-disparities-in-stem)
 - **Skills**: Python, Data Mining, Machine Learning
 - **Description**: Analyzed a large dataset using data mining techniques. The project involved classification, clustering, and data preprocessing methods. 
-  - [Project Code](https://github.com/yourusername/data-mining-project/blob/main/your_notebook.ipynb)
-  - [Project PDF Report](https://github.com/yourusername/data-mining-project/blob/main/your_report.pdf)
-  - [Presentation](https://github.com/yourusername/data-mining-project/blob/main/your_presentation.pdf)
+  - [Project Code](https://github.com/tabassum221b/gender-disparities-in-stem/blob/main/gender-disparities-in-stem.ipynb)
+  - [Project PDF Report](https://github.com/tabassum221b/gender-disparities-in-stem/blob/main/Project%20Report.pdf)
+  - [Presentation](https://docs.google.com/presentation/d/130J-tE9AFm8H0Flj4l5et4UJaAIeH_u2/edit?usp=share_link&ouid=110952431175886571637&rtpof=true&sd=true)
 
 
 
