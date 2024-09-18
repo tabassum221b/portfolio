@@ -18,14 +18,12 @@ I enjoy working with data to uncover insights that drive business and research d
 
 ## Projects
 
-### 1. [Data Mining Project](https://github.com/tabassum221b/gender-disparities-in-stem)
-- **Skills**: Python, Data Mining, Machine Learning
-- **Description**: Analyzed a large dataset using data mining techniques. The project involved classification, clustering, and data preprocessing methods. 
+### 1. [Unveiling Gender Disparities in STEM](https://github.com/tabassum221b/gender-disparities-in-stem)
+- **Skills**: Python, NLP, Data Mining, Sentiment Analysis
+- **Description**: A data mining project analyzing the role of societal discouragement vs. inherent interest in the underrepresentation of women in STEM, based on Reddit data. The project employs clustering, topic modeling, and sentiment analysis to uncover key insights.
   - [Project Code](https://github.com/tabassum221b/gender-disparities-in-stem/blob/main/gender-disparities-in-stem.ipynb)
   - [Project PDF Report](https://github.com/tabassum221b/gender-disparities-in-stem/blob/main/Project%20Report.pdf)
   - [Presentation](https://docs.google.com/presentation/d/130J-tE9AFm8H0Flj4l5et4UJaAIeH_u2/edit?usp=share_link&ouid=110952431175886571637&rtpof=true&sd=true)
-
-
 
 ## Contact
 - Email: [homayra221b@gmail.com](mailto:homayra221b@gmail.com)
