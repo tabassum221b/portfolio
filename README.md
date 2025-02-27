@@ -2,7 +2,7 @@
 
 ## Projects
 
-### 1. [Unveiling Gender Disparities in STEM](https://github.com/tabassum221b/gender-disparities-in-stem)
+### 1. [Unveiling Gender Disparities in STEM](https://github.com/tabassum221b/Gender-Gaps-in-STEM)
 - **Skills**: Python, NLP, Data Mining, Sentiment Analysis
 - **Description**: A data mining project analyzing the role of societal discouragement vs. inherent interest in the underrepresentation of women in STEM, based on Reddit data. The project employs clustering, topic modeling, and sentiment analysis to uncover key insights.
   - [Project Code](https://github.com/tabassum221b/gender-disparities-in-stem/blob/main/gender-disparities-in-stem.ipynb)
