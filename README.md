@@ -1,12 +1,9 @@
-# Homayra Tabassum | Data Science Portfolio
+# Homayra Tabassum
 
 ## About Me
-I am a data analyst with a strong background in Python, SQL, and R. My experience spans across data-driven projects that focus on making informed decisions through statistical analysis, data mining, and machine learning techniques.
-
-Currently, I am pursuing a Master's in Data Science at the University of Rochester. My academic journey has provided me with in-depth knowledge in areas such as Computational Statistics, Data Mining, and Machine Learning. I also hold a Bachelor's degree in Computer Science and Engineering from Brac University.
-
-I enjoy working with data to uncover insights that drive business and research decisions.
-
+I’m a data scientist with expertise in predictive modeling, sentiment analysis, and data visualization using tools like Python and R.
+Recently, I worked with the Rochester Fire Department, analyzing 1.6 million incident records to identify trends, forecast emergency demand for the next 10 years, and optimize resource allocation across 15 fire stations. I also conducted sentiment analysis on 20,000+ Reddit comments to explore the gender gap in STEM, applying NLP techniques like topic modeling and clustering to uncover key barriers.
+Proficient in Python, SQL, and statistical analysis, I thrive on solving complex problems, collaborating with cross-functional teams, and transforming raw data into meaningful insights.
 
 ## Skills
 - **Programming Languages**: Java, Python, R, SQL
