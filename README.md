@@ -8,6 +8,11 @@
   - [Project Code](https://github.com/tabassum221b/gender-disparities-in-stem/blob/main/gender-disparities-in-stem.ipynb)
   - [Project PDF Report](https://github.com/tabassum221b/gender-disparities-in-stem/blob/main/Project%20Report.pdf)
   - [Presentation](https://docs.google.com/presentation/d/130J-tE9AFm8H0Flj4l5et4UJaAIeH_u2/edit?usp=share_link&ouid=110952431175886571637&rtpof=true&sd=true)
+
+### 2. [N](https://github.com/tabassum221b/Netflix-Analysis)
+- **Skills**:
+- **Description**:
+    
   
 ## Skills
 - **Programming Languages**: Java, Python, R, SQL
