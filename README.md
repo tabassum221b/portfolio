@@ -1,4 +1,11 @@
-## Homayra Tabassum
+# Homayra Tabassum
+
+## About Me
+I’m a data scientist with expertise in predictive modeling, sentiment analysis, and data visualization using tools like Python and R.
+
+Recently, I worked with the Rochester Fire Department, analyzing 1.6 million incident records to identify trends, forecast emergency demand for the next 10 years, and optimize resource allocation across 15 fire stations. I also conducted sentiment analysis on 20,000+ Reddit comments to explore the gender gap in STEM, applying NLP techniques like topic modeling and clustering to uncover key barriers.
+
+Proficient in Python, SQL, and statistical analysis, I thrive on solving complex problems, collaborating with cross-functional teams, and transforming raw data into meaningful insights.
 
 ## Projects
 
