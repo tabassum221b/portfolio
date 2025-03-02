@@ -10,8 +10,8 @@
   - [Presentation](https://docs.google.com/presentation/d/130J-tE9AFm8H0Flj4l5et4UJaAIeH_u2/edit?usp=share_link&ouid=110952431175886571637&rtpof=true&sd=true)
 
 ### 2. [Netflix Family Account Usage Analysis](https://github.com/tabassum221b/Netflix-Analysis)
-- **Skills**:
-- **Description**:
+- **Skills**:Python, Pandas, Matplotlib , Seaborn
+- **Description**: This project explores how my family uses their Netflix account, identifying patterns in viewing habits, binge-watching tendencies, favorite shows, and the effectiveness of Netflix messages. The analysis dives into user behavior and highlights actionable insights.
     
   
 ## Skills
